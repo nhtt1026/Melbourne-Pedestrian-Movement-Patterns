@@ -58,20 +58,6 @@ The dashboard is designed as an operational planning lens for city planners: it 
 - **Implication**: Melbourne city planners can use **time-based interventions**. For example, strengthen crossing capacity and staffing around **Friday or the early-week lunchtime**, then shift to **lighting, surveillance, and night transport coordination** for **Friday late-night peaks**, instead of applying the same settings all week.
 
 ## Recommendations for City Planners
-### 1) Upgrade pedestrian capacity where pressure is structurally highest
-The CBD and Southbank should be prioritized for wider footpaths, kerb extensions, and additional crossing opportunities (including mid-block crossings) to reduce congestion and improve comfort during the midday peak. Shaded seating and weather protection will also matter because the highest demand occurs in daytime conditions.  [oai_citation:14‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
-
-### 2) Adjust intersection operations for Friday-night safety and flow
-The late-night Friday peak suggests a targeted safety window. Near nightlife and entertainment areas (e.g., Swanston Street and Flinders Street), longer pedestrian green times and “pedestrian-only crossing moments” (vehicles stopped briefly while people cross) can reduce conflict risk and speed up dispersal when crowds are leaving venues.  [oai_citation:15‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
-
-### 3) Use light-touch crowd guidance during known peak windows
-For Friday midday and late-night periods, introduce temporary lane markings or one-way walking guidance at busy intersections and event spaces, supported by clear wayfinding signs. This reduces “counter-flow friction” without relying on physical barriers, and can be scaled up during major events.  [oai_citation:16‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
-
-### 4) Improve accessibility and reduce micromobility conflict in the core
-In high-traffic areas, prioritize tactile paving, audible crossings, and smoother kerb transitions so mobility constraints do not become safety risks in crowded conditions. Pair this with slow-speed zones and clearer separation for scooters and bicycles inside the CBD to reduce pedestrian conflict points.  [oai_citation:17‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
-
-### 5) Turn the dashboard into a weekly operating rhythm
-Use automated pedestrian reporting to guide weekly planning decisions such as maintenance timing, event readiness, and targeted resourcing. Over time, the same sensor patterns can validate whether interventions are working by tracking whether peak-hour pressure is reducing at known hotspots.  [oai_citation:18‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
 
 ## Suggested Next Investigations
 - Pinpoint the specific sensors driving the 10PM Friday peak to confirm whether the pattern is venue-led, transport-led, or corridor-led.  [oai_citation:19‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)  
