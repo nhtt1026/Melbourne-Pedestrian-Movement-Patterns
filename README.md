@@ -1,7 +1,10 @@
 ## Project Context:
-The City of Melbourne is strengthening its urban mobility strategy by understanding how pedestrians move across the city using a network of sensors that capture directional counts at multiple locations. The goal is to identify when and where crowding happens, then translate those patterns into practical actions for safer and more comfortable streets.
+
+The City of Melbourne is strengthening its urban mobility strategy by understanding how pedestrians move across the city using a network of sensors that capture directional pedestrian counts at multiple locations. The goal is to identify when and where crowding happens, then translate those patterns into practical actions for safer, more comfortable, and better-managed streets.
 
 **Data source:** [City of Melbourne Open Data Portal – Pedestrian Counting System (Monthly counts per hour)](https://data.melbourne.vic.gov.au/explore/dataset/pedestrian-counting-system-monthly-counts-per-hour/information/)
+
+**Timing note:** The open dataset is updated over time, but this portfolio analysis is based on a data snapshot downloaded on Oct 15, 2025. The dashboard examples in this project focus on the **13 Oct 2023 – 5 Oct 2025** analysis window shown in the report filters.
 
 ## Key Objectives:
 1. Where are the highest pedestrian concentration areas across Melbourne’s sensor network?
