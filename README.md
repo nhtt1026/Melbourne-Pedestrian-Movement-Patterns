@@ -47,6 +47,16 @@ The dashboard is designed as an operational planning lens for city planners: it 
 - This chart shows a clear daily cycle in pedestrian movement. Activity stays very low overnight (roughly 0:00–6:00), then rises steadily through the morning. The strongest concentration sits in **late morning to early afternoon (around 10:00–14:00)**, with the **highest point around 12:00 (~5.8K)**, indicating the most consistent **high-demand period** for sidewalks, crosswalks, and station entrances.
 - A second, smaller peak appears **late at night (around 22:00, ~3.4K)**, which suggests a distinct late-evening dispersal pattern rather than a typical commuter peak. This supports targeted night-time safety actions (lighting, clearer crossings, and crowd guidance) in busy precincts during late hours.
 
+### 5) Pedestrian Intensity Heatmap by Hour & Day:
+
+<img width="639" height="877" alt="image" src="https://github.com/user-attachments/assets/48824286-817c-469d-ba93-1c9d424c2224" />
+
+- The strongest concentration appears on **Friday around midday (12:00)**, suggesting CBD activity is most intense during end-of-week work and retail periods.
+- **Weekday lunchtime pressure** is also significant. **Monday (~14:00)** and **Tuesday (~13:00)** show clear spikes, pointing to a recurring **lunch and early-afternoon surge** likely driven by office, university, and retail movement. This supports targeted measures such as smoother crossing operations and footpath capacity checks during weekday lunchtime.
+- **A clear late-night surge shows up on Friday**. The spike around **22:00 on Friday** points to **the night-time economy or event-related movement**, where safety and crowd flow need extra attention.
+- **Weekends look flatter and more spread out**. Activity is present, but it is less “spiky,” which supports **lighter, targeted resourcing** rather than heavy weekday-style controls.
+- **Implication**: Melbourne city planners can use **time-based interventions**. For example, strengthen crossing capacity and staffing around **Friday or the early-week lunchtime**, then shift to **lighting, surveillance, and night transport coordination** for **Friday late-night peaks**, instead of applying the same settings all week.
+
 ## Recommendations for City Planners
 ### 1) Upgrade pedestrian capacity where pressure is structurally highest
 The CBD and Southbank should be prioritized for wider footpaths, kerb extensions, and additional crossing opportunities (including mid-block crossings) to reduce congestion and improve comfort during the midday peak. Shaded seating and weather protection will also matter because the highest demand occurs in daytime conditions.  [oai_citation:14‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
