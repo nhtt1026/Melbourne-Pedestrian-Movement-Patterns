@@ -64,4 +64,10 @@ The dashboard is designed as an operational planning lens for city planners: it 
 - **Use “inbound vs outbound” to target dispersal corridors**: Locations that skew outbound are likely carrying end-of-day movement. Improve corner capacity, crossing clearance time, and pedestrian waiting space at these corridors rather than applying the same treatments everywhere.
 - **Plan works and maintenance around seasonal foot traffic**: Use the trend chart to schedule disruptive works (closures, resurfacing, utilities) in the lowest-footfall periods. And during peak periods, keep main walking routes open (or provide clear, well-lit, step-free detours) to avoid crowding, unsafe spillover into roads, and accessibility issues.
 
-## Suggested Next Investigations:
+## Suggested Next Investigations (Future Work):
+
+- **Explain peaks with external drivers.** Overlay footfall with weather and major CBD events to separate true demand increases from temporary disruption effects. This makes “why did it spike?” answers more defensible for planning decisions.
+
+- **Assess “before vs after” impacts of upgrades or works.** Use the time series to compare footfall around a location before and after changes (new crossings, footpath upgrades, detours). This helps quantify whether interventions improved comfort and capacity.
+
+- **Build a simple forecasting layer for planning.** Extend the dashboard with short-term forecasts (next week/month) and scenario testing using nearby city features (transport nodes, landmarks, lighting) to estimate how new developments could shift footfall.
