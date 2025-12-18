@@ -57,6 +57,11 @@ The dashboard is designed as an operational planning lens for city planners: it 
 - **Weekends look flatter and more spread out**. Activity is present, but it is less “spiky,” which supports **lighter, targeted resourcing** rather than heavy weekday-style controls.
 - **Implication**: Melbourne city planners can use **time-based interventions**. For example, strengthen crossing capacity and staffing around **Friday or the early-week lunchtime**, then shift to **lighting, surveillance, and night transport coordination** for **Friday late-night peaks**, instead of applying the same settings all week.
 
-## Recommendations for City Planners
+## Recommendations for City Planners:
+- **Prioritise upgrades where people already concentrate**: Focus footpath capacity, crossing safety, lighting, and wayfinding in the **CBD core and Southbank** because these areas carry the highest day-to-day pedestrian load.
+- **Tune crossings for weekday lunchtime surges**: Strengthen intersection operations and footpath pinch-point management around the recurring **weekday lunch and early afternoon peaks** (especially Mon and Tues). This is where small timing and layout changes can remove friction quickly.
+- **Treat Friday late-night as a separate operating mode**: The **Friday ~22:00 spike** suggests night-time economy or event dispersal. Prioritise safer night crossings, clearer guidance to night transport, and targeted staff presence in busy precincts during these hours.
+- **Use “inbound vs outbound” to target dispersal corridors**: Locations that skew outbound are likely carrying end-of-day movement. Improve corner capacity, crossing clearance time, and pedestrian waiting space at these corridors rather than applying the same treatments everywhere.
+- **Plan works and maintenance around seasonal foot traffic**: Use the trend chart to schedule disruptive works (closures, resurfacing, utilities) in the lowest-footfall periods. And during peak periods, keep main walking routes open (or provide clear, well-lit, step-free detours) to avoid crowding, unsafe spillover into roads, and accessibility issues.
 
-## Suggested Next Investigations
+## Suggested Next Investigations:
