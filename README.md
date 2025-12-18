@@ -66,8 +66,7 @@ The dashboard is designed as an operational planning lens for city planners: it 
 
 ## Suggested Next Investigations (Future Work):
 
-- **Explain peaks with external drivers.** Overlay footfall with weather and major CBD events to separate true demand increases from temporary disruption effects. This makes “why did it spike?” answers more defensible for planning decisions.
-
-- **Assess “before vs after” impacts of upgrades or works.** Use the time series to compare footfall around a location before and after changes (new crossings, footpath upgrades, detours). This helps quantify whether interventions improved comfort and capacity.
-
-- **Build a simple forecasting layer for planning.** Extend the dashboard with short-term forecasts (next week/month) and scenario testing using nearby city features (transport nodes, landmarks, lighting) to estimate how new developments could shift footfall.
+- **Explain peaks using external drivers**: Overlay pedestrian counts with **weather, public events, and planned disruptions** (street works, station closures, major detours) to separate true demand growth from temporary effects. This makes “why did it spike?” explanations more defensible when planners are justifying operational or capital decisions.
+- **Measure “before vs after” impacts of upgrades**: Use the time series to compare footfall **before and after** changes at specific sites (new crossings, widened footpaths, signal timing updates, temporary closures). Pair this with the heatmap windows to check whether upgrades reduce pressure in the highest-demand periods, not just in averages.
+- **Segment sensors by behaviour, not by a single label**: Use each sensor’s hour-by-day “time signature” to identify whether it is commuter-driven (AM/PM peaks), retail/lunch-driven (midday peak), or night-economy-driven (late-night uplift). Many CBD sensors will show mixed patterns, so a **primary + secondary pattern** (or simple score-based approach) is more realistic than assigning one category.
+- **Add a lightweight forecasting layer for planning**: Extend the dashboard with simple **short-term forecasts** (next week or month) using recent patterns plus known drivers (school holidays, scheduled events). This helps planners staff resources, schedule maintenance, and test “what if” scenarios without needing a complex model.
