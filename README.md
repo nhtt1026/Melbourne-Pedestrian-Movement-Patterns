@@ -60,9 +60,3 @@ The dashboard is designed as an operational planning lens for city planners: it 
 ## Recommendations for City Planners
 
 ## Suggested Next Investigations
-- Pinpoint the specific sensors driving the 10PM Friday peak to confirm whether the pattern is venue-led, transport-led, or corridor-led.  [oai_citation:19‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)  
-- Compare “before vs after” around any planned upgrades (kerb extensions, crossings, slow-speed zones) using the same heatmap structure to quantify impact.  [oai_citation:20‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)  
-- Add event calendars and weather overlays to explain spikes that are not seasonal (e.g., festivals, sports nights, heatwaves).
-
-## Deliverable
-- Power BI dashboard focused on pedestrian movement patterns and actionable planning insights for City of Melbourne urban mobility and safety planning.  [oai_citation:21‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
