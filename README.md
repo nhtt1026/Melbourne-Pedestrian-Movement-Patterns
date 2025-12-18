@@ -44,7 +44,8 @@ The dashboard is designed as an operational planning lens for city planners: it 
 
 <img width="1536" height="768" alt="image" src="https://github.com/user-attachments/assets/6e1c7a8a-f6c7-4038-bb4c-cff85dcd176f" />
 
-- 
+- This chart shows a clear daily cycle in pedestrian movement. Activity stays very low overnight (roughly 0:00–6:00), then rises steadily through the morning. The strongest concentration sits in **late morning to early afternoon (around 10:00–14:00)**, with the **highest point around 12:00 (~5.8K)**, indicating the most consistent **high-demand period** for sidewalks, crosswalks, and station entrances.
+- A second, smaller peak appears **late at night (around 22:00, ~3.4K)**, which suggests a distinct late-evening dispersal pattern rather than a typical commuter peak. This supports targeted night-time safety actions (lighting, clearer crossings, and crowd guidance) in busy precincts during late hours.
 
 ## Recommendations for City Planners
 ### 1) Upgrade pedestrian capacity where pressure is structurally highest
