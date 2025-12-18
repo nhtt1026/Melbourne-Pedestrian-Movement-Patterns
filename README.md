@@ -19,9 +19,9 @@ The dashboard is designed as an operational planning lens for city planners: it 
 
 <img width="1794" height="890" alt="image" src="https://github.com/user-attachments/assets/4eb6acf0-f6d3-4536-ba58-0cab0812b6eb" />
 
-- This chart highlights clear seasonality and longer-term shifts in pedestrian activity. Foot traffic **rises strongly toward mid-2025** (peaking around ~7.1K on Jul 2025), which supports planning higher-capacity operations and maintenance scheduling in periods when the CBD is most active. The uplift versus 2024 (roughly ~2.0–2.3K) also provides a useful benchmark for evaluating whether foot traffic is structurally increasing over time.
+- This chart highlights clear seasonality and longer-term shifts in pedestrian activity. Foot traffic **rises strongly toward mid-2025** (peaking around **~7.1K in Jul 2025**), which supports planning **higher-capacity operations** and **maintenance scheduling** in periods when the CBD is most active. The uplift versus 2024 (roughly **~2.0–2.3K**) also provides a useful benchmark for evaluating whether foot traffic is structurally increasing over time.
 
-- The sharp spike near mid-2025 and the pronounced drops (e.g., ~1.3K early 2024 and ~1.7K at the end of the series) should be treated as investigation triggers. These patterns may relate to major events, construction works, disruptions, weather impacts, or partial/incomplete reporting in the latest period.
+- The sharp spike near mid-2025 and the pronounced drops (e.g., **~1.3K early 2024** and **~1.7K at the end of the series**) should be treated as **investigation triggers**. These patterns may relate to **major events, construction works, disruptions, weather impacts, or partial/incomplete reporting** in the latest period.
 
 ### 2) Pedestrian Volume Map:
 
