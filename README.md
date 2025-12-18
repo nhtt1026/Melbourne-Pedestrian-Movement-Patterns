@@ -1,38 +1,45 @@
-# City of Melbourne Pedestrian Movement Insights (Power BI)
-
-## Project Context
+## Project Context:
 The City of Melbourne is strengthening its urban mobility strategy by understanding how pedestrians move across the city using a network of sensors that capture directional counts at multiple locations. The goal is to identify when and where crowding happens, then translate those patterns into practical actions for safer and more comfortable streets.
 
-## Business Questions
+**Data source:** [City of Melbourne Open Data Portal – Pedestrian Counting System (Monthly counts per hour)](https://data.melbourne.vic.gov.au/explore/dataset/pedestrian-counting-system-monthly-counts-per-hour/information/)
+
+## Key Objectives:
 1. Where are the highest pedestrian concentration areas across Melbourne’s sensor network?
 2. What time patterns define pedestrian activity (daily peaks and weekly rhythms)?
 3. How do inbound vs outbound movements behave at the busiest locations?
 4. What targeted interventions can city planners apply to improve pedestrian capacity, flow, and safety?
 
-## Dashboard Overview
+## Dashboard Overview:
 The dashboard is designed as an operational planning lens for city planners: it surfaces citywide activity, spatial hotspots, directional flow differences, and hour-by-hour pressure points to support infrastructure and safety decisions.
 
 <img width="1753" height="952" alt="image" src="https://github.com/user-attachments/assets/9a9ed44a-709e-4526-97d6-3a2c84b9666c" />
 
-## Key Findings
-### 1) Citywide activity is concentrated in the inner core
-Pedestrian concentration is highest in the CBD core and Southbank precinct, aligning with retail, transport access, and leisure destinations. This indicates where pedestrian comfort and safety improvements will generate the biggest citywide impact.  [oai_citation:7‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
+## Key Findings:
+### 1) Pedestrian Flow Trends Over Time (for seasonality & long-term change):
 
-### 2) Movement is seasonal, not flat
-Pedestrian volume shows clear seasonal variation, rising strongly toward mid-2025 and dropping in earlier months. For planning, this supports a “baseline vs peak season” approach to resourcing and maintenance scheduling.  [oai_citation:8‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
+<img width="1794" height="890" alt="image" src="https://github.com/user-attachments/assets/4eb6acf0-f6d3-4536-ba58-0cab0812b6eb" />
+
+- This chart highlights clear seasonality and longer-term shifts in pedestrian activity. Foot traffic **rises strongly toward mid-2025** (peaking around ~7.1K on Jul 2025), which supports planning higher-capacity operations and maintenance scheduling in periods when the CBD is most active. The uplift versus 2024 (roughly ~2.0–2.3K) also provides a useful benchmark for evaluating whether foot traffic is structurally increasing over time.
+
+- The sharp spike near mid-2025 and the pronounced drops (e.g., ~1.3K early 2024 and ~1.7K at the end of the series) should be treated as investigation triggers. These patterns may relate to major events, construction works, disruptions, weather impacts, or partial/incomplete reporting in the latest period.
+
+### 2) Pedestrian Volume Map:
+
+<img width="1536" height="753" alt="image" src="https://github.com/user-attachments/assets/dacfdf53-44a4-444d-97f8-aaef450d131e" />
+
+- The map shows pedestrian activity concentrating most strongly in **Melbourne’s CBD and Southbank**, especially around **major transport hubs, retail streets, and riverfront destinations**. These hotspots indicate where footpaths and crossings are under the most daily pressure, and where small design changes can improve safety and comfort for the largest number of people.
+
+- For city planning, this supports **place-based investment**: prioritise upgrades in the CBD core (wider footpaths, safer intersections, clearer crossings) and strengthen Southbank’s high-activity routes with **better lighting, wayfinding, and pedestrian-friendly links** between stations, key streets, and popular venues.
 
 ### 3) Outbound flow slightly exceeds inbound at key locations
-Across the top sensor locations, outbound movement is slightly higher than inbound, consistent with dispersal cycles around lunch and evening periods. This matters for designing crossing capacity and managing pinch points where people “spill out” at similar times.  [oai_citation:9‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
+Across the top sensor locations, outbound movement is slightly higher than inbound, consistent with dispersal cycles around lunch and evening periods. This matters for designing crossing capacity and managing pinch points where people “spill out” at similar times.
 
 ### 4) Two daily peaks define demand, with a Friday-night signature
 The hourly pattern shows two distinct peaks:
-- Primary peak: 10AM–2PM, consistent with daytime retail and lunchtime movement in the CBD.  [oai_citation:10‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)  
-- Secondary peak: around 10PM, primarily driven by Friday night social and nightlife activity.  [oai_citation:11‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)  
+- Primary peak: 10AM–2PM, consistent with daytime retail and lunchtime movement in the CBD.
+- Secondary peak: around 10PM, primarily driven by Friday night social and nightlife activity.
 
-The heatmap reinforces this: Friday midday and late-night hours show the highest intensity, while weekends are more moderate and spread out.  [oai_citation:12‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
-
-> Note on “PeakHourlyCount vs Peak Hour Distribution”  
-> A card peak like “3,000” typically represents the highest single sensor-hour, while the hourly distribution can reflect totals across multiple sensors for the same hour—so it can exceed the single-sensor peak without contradicting it.  [oai_citation:13‡21538241_Assignment2_HoangThanhTrucNguyen_Report.pdf](sediment://file_00000000119071fa9c298f18aae53a3f)
+The heatmap reinforces this: Friday midday and late-night hours show the highest intensity, while weekends are more moderate and spread out. 
 
 ## Recommendations for City Planners
 ### 1) Upgrade pedestrian capacity where pressure is structurally highest
