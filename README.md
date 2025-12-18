@@ -31,15 +31,20 @@ The dashboard is designed as an operational planning lens for city planners: it 
 
 - For city planning, this supports **place-based investment**: prioritise upgrades in the CBD core (wider footpaths, safer intersections, clearer crossings) and strengthen Southbank’s high-activity routes with **better lighting, wayfinding, and pedestrian-friendly links** between stations, key streets, and popular venues.
 
-### 3) Outbound flow slightly exceeds inbound at key locations
-Across the top sensor locations, outbound movement is slightly higher than inbound, consistent with dispersal cycles around lunch and evening periods. This matters for designing crossing capacity and managing pinch points where people “spill out” at similar times.
+### 3) Directional Flow Comparison (Inbound vs Outbound at Top Sensor Locations):
 
-### 4) Two daily peaks define demand, with a Friday-night signature
-The hourly pattern shows two distinct peaks:
-- Primary peak: 10AM–2PM, consistent with daytime retail and lunchtime movement in the CBD.
-- Secondary peak: around 10PM, primarily driven by Friday night social and nightlife activity.
+<img width="1536" height="781" alt="image" src="https://github.com/user-attachments/assets/39113463-5b0a-4e40-ad9e-3ece35c1d40a" />
 
-The heatmap reinforces this: Friday midday and late-night hours show the highest intensity, while weekends are more moderate and spread out. 
+- **Directional imbalance flags "source" vs "destination” streets**: Several locations show stronger **outbound** than inbound (e.g., **Eli124_T** ~1.53K outbound vs ~1.18K inbound, **Col620_T** ~0.86K vs ~0.47K, and **Eli368_T** ~0.98K vs ~0.75K), suggesting these streets act as dispersal routes after work or events.
+- **Consistent inflow indicates high-attraction nodes**: Sensors such as **Swa31** and **RMIT_T** show stronger **inbound** movement, consistent with **destinations** like retail, campus, or major stops.
+- **Crossing demand remains high even when flows are balanced**: Where inbound and outbound are close (e.g., **VAC_T ~0.68K vs ~0.66K)**, the issue is less about direction and more about **2-way friction**. These are strong candidates for **safer, faster crossings and more space at corners.**
+- **City planners should use time slicing to validate pressure shifts through the day**: Filter this view by hour and day to confirm whether the imbalance flips (morning inflow vs evening outflow), then tune signal timing and crowd management to match real demand.
+
+### 4) Peak Hour Distribution:
+
+<img width="1536" height="768" alt="image" src="https://github.com/user-attachments/assets/6e1c7a8a-f6c7-4038-bb4c-cff85dcd176f" />
+
+- 
 
 ## Recommendations for City Planners
 ### 1) Upgrade pedestrian capacity where pressure is structurally highest
