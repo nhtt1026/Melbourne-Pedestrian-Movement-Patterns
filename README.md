@@ -1,4 +1,4 @@
-# Melbourne Pedestrian Movement Patterns — End-to-End Azure Data Solution
+# Melbourne Pedestrian Movement Patterns: End-to-End Azure Data Solution
 
 ## About
 An end-to-end Azure Data Factory (ADF) ETL pipeline and Power BI dashboard that turns City of Melbourne pedestrian sensor counts into planning-ready insights on CBD/Southbank hotspots, daily peak windows, and late-night surges for safer, better-managed streets.
