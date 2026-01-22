@@ -102,13 +102,9 @@ This project delivers a cloud-based pipeline and dashboard that:
 
 ---
 
-## 5) Data Model (SQL) - Taken the data model capture from Power BI:
-> List the final tables you load (e.g., `dim_sensor`, `fact_hourly_counts`, `fact_peak_by_location`), keys, and relationships.
-
-Recommended minimum:
-- `dim_sensor` (sensor metadata + coordinates)
-- `fact_ped_hourly` (HourStart, Location, inbound, outbound, total)
-- Optional: `fact_peak_hour` (Location, Date, PeakHourStart, PeakHourlyCounts)
+## 5) Data Model (Imported to Power BI):
+- Star schema:
+- Data dictionary:
 
 ---
 
